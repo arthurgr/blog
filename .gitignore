@@ -20,3 +20,7 @@ pnpm-debug.log*
 
 # Astro
 .astro/
+
+#ide setting
+workspace.xml
+vcs.xml
