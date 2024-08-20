@@ -22,5 +22,4 @@ pnpm-debug.log*
 .astro/
 
 #ide setting
-workspace.xml
-vcs.xml
+.idea/
