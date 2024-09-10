@@ -53,7 +53,7 @@ In React, this is a common pattern:
 
 For example, if a user changes their profile picture on the social media app, the state containing that user's information is updated. React, noticing the state change, re-renders the component to display the new picture without needing to refresh the entire page.
 
-## Conclusion
+## In Conclusion
 
 Understanding state is fundamental to building modern, dynamic applications. It’s the beating heart of any app, enabling real-time user interactions, live updates, and personalized experiences. The better you manage state, the more responsive and seamless your app will feel.
 
